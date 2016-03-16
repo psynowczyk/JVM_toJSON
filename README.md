@@ -9,7 +9,7 @@ Supporting types:
 
 Usage:
 ```sh
-  toJSON(Object o, Boolean format);
+  toJSON(Object o, Boolean format)
 ```
 
 App execution:
